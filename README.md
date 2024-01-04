@@ -1,6 +1,6 @@
 ## English
 
-# ScrapTubes
+# ScrapTubes - (Discord server: https://discord.gg/qDDSzY9TPP)
 
 ScrapTubes is the most maintained, scalable and cheapest API solution for scraping social media data and building high-performed services.
 
